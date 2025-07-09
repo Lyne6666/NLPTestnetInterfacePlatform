@@ -1,2 +1,1 @@
-# NLPTestnetInterfacePlatform
-Advanced NLPTestnetInterfacePlatform project
+.
